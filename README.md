@@ -155,8 +155,7 @@ Return the complete final result as a high-quality visually rich PDF report only
 
 ## Output:
 
-[KEERTHANA-S_EXP-10.pdf](https://github.com/user-attachments/files/28084519/KEERTHANA-S_EXP-10.pdf)
-
+[KEERTHANA-S_EXP-10.pdf](https://github.com/user-attachments/files/28084896/KEERTHANA-S_EXP-10.pdf)
 
 ## Deliverables:
 1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
