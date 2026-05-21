@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date: 21-05-2026
+## Reg No: 212223060122
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -55,6 +55,109 @@ content generation scenarios:
 3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
 4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
 5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+
+## Prompt:
+```
+Generate a professional multi-page PDF laboratory report exactly following the style, structure, formatting quality, academic tone, and visual presentation of the reference report provided.
+
+Topic:
+“To demonstrate how various prompting techniques (Query Decomposition, Decision-Making, Semantic Filtering, Chain-of-Thought, Role-Based Prompting, Few-Shot Prompting, Constraint Setting, and Iterative Refinement) can be systematically employed to generate high-quality content such as academic reports, articles, case studies, and creative works like comic books, using large language models such as ChatGPT and similar AI systems.”
+
+Student Details:
+- Name: Keerthana S
+- Register Number: 212223060122
+- Department: B.E. Electronics and Communication Engineering
+
+Document Requirements:
+- Generate the final output strictly as a polished PDF document
+- Maintain approximately 11–15 pages
+- Use a futuristic premium Purple–Black–Silver AI theme
+- Match the professional laboratory-record appearance of the reference report
+- Use modern typography, neon accents, gradient dividers, and elegant spacing
+- Add stylish headers and footers on every page
+- Include automatic footer page numbering only
+- Do not explicitly mention “Page No” anywhere in the content
+- Include rich visual elements, charts, comparison graphics, tables, and AI-themed decorations
+- Maintain university-level academic formatting throughout
+
+Color Palette:
+- Deep Purple (#2D0B59)
+- Royal Violet (#5A189A)
+- Neon Purple (#9D4EDD)
+- Midnight Black (#0B0B0F)
+- Silver (#C0C0C0)
+- Soft White (#F8F9FA)
+
+Required Sections:
+1. Stylish Colored Cover Page
+2. Table of Contents
+3. Aim of the Experiment
+4. Objectives
+5. Introduction
+6. Prompting Patterns — Reference Table
+7. Experimental Procedure
+8. Five Detailed Test Scenarios:
+   - Naive Prompt
+   - Naive AI Response
+   - Structured/Advanced Prompt
+   - Structured AI Response
+   - Comparative Evaluation Table
+   - Improvement Rating
+
+Scenario Categories:
+- Report Writing
+- Article Creation
+- Business Case Study
+- Comic Book / Creative Story
+- Technical Documentation
+
+Evaluation Metrics:
+- Quality
+- Accuracy
+- Depth
+- Clarity
+- Relevance
+(scores out of 10)
+
+9. Analysis & Visual Charts Section
+Include:
+- Grouped Bar Chart
+- Pie Chart
+- Radar Chart
+- Heatmap
+- Line Trend Graph
+- Stacked Bar Chart
+- Improvement Comparison Chart
+- Technique Effectiveness Ranking Chart
+
+10. Master Comparison Table
+11. Detailed Conclusion
+12. Best Practices in Prompt Engineering
+13. References
+
+Formatting & Design Instructions:
+- Use rich academic formatting similar to premium AI laboratory manuals
+- Add highlighted quote boxes and section separators
+- Include futuristic AI graphics and subtle digital background textures
+- Use color-coded score tables and metric comparison tables
+- Create visually appealing chart layouts with consistent styling
+- Use structured headings and professional alignment
+- Ensure the report feels modern, highly polished, and presentation-ready
+
+Writing Style:
+- Formal academic tone
+- Technically detailed explanations
+- Professional structured analysis
+- Clear and coherent language suitable for engineering laboratory submission
+
+Output:
+Return the complete final result as a high-quality visually rich PDF report only.
+```
+
+## Output:
+
+[KEERTHANA-S_EXP-10.pdf](https://github.com/user-attachments/files/28084519/KEERTHANA-S_EXP-10.pdf)
+
 
 ## Deliverables:
 1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
